@@ -5,4 +5,9 @@
 .feature{
     background-color: coral;
     color: aliceblue;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    border-radius:20px;
+    border:5px solid black;
 }
